@@ -1,0 +1,18 @@
+#iframe {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+* {
+  background-color: pink;
+}
+
+/* figure out layout
+h1 {
+    text-align: center;
+}
+img {
+    margin: auto;
+}
+*/
